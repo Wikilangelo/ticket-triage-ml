@@ -1,0 +1,61 @@
+testo,categoria_reale,categoria_predetta,priorita_reale,priorita_predetta
+Stato ordine Potete aggiornarmi sullo stato dell'ordine ORD-94994? Risulta ancora in lavorazione.,Commerciale,Commerciale,Alta,Bassa
+Problema pagamento online Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-48769?,Amministrazione,Amministrazione,Bassa,Bassa
+Notifiche non funzionano Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user881@azienda.it.,Tecnico,Tecnico,Media,Bassa
+Problema integrazione API L'app si blocca quando apro la sezione 'Impostazioni'. Potete verificare? Succede da 21/09/2024.,Tecnico,Tecnico,Bassa,Bassa
+Errore accesso account L'app si blocca quando apro la sezione 'Dashboard'. Potete verificare? Succede da 11/06/2025.,Tecnico,Tecnico,Bassa,Bassa
+Problema integrazione API Da questa mattina non riesco ad accedere: appare il messaggio 'Gateway Timeout'. L'utente è user802@azienda.it.,Tecnico,Tecnico,Media,Alta
+Sconto per rinnovo Il prodotto DataGuard è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Commerciale,Bassa,Bassa
+Chiarimenti su prezzi Mi servono dettagli tecnici sul prodotto DataGuard: compatibilità e requisiti minimi.,Commerciale,Commerciale,Bassa,Bassa
+Aggiornamento dati di fatturazione In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-33416. Potete controllare?,Amministrazione,Amministrazione,Bassa,Bassa
+Stato ordine Richiesta urgente. Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Basic?,Commerciale,Commerciale,Media,Bassa
+Dati per bonifico Chiedo il rimborso per l'ordine ORD-35237 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Amministrazione,Bassa,Bassa
+Dettagli prodotto Vorrei modificare l'ordine ORD-56019 (quantità/indirizzo). È ancora possibile?,Commerciale,Commerciale,Bassa,Bassa
+Informazioni su offerta Potete aggiornarmi sullo stato dell'ordine ORD-32184? Risulta ancora in lavorazione.,Commerciale,Commerciale,Bassa,Bassa
+Upgrade piano Vorrei modificare l'ordine ORD-89964 (quantità/indirizzo). È ancora possibile?,Commerciale,Commerciale,Bassa,Bassa
+Richiesta rimborso Problema bloccante. Non ho ricevuto la fattura del mese di agosto. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Amministrazione,Bassa,Bassa
+Richiesta copia fattura Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-99694?,Amministrazione,Amministrazione,Bassa,Bassa
+Problema integrazione API L'integrazione con le API fallisce con errore 'Token scaduto'. Endpoint: /v1/billing.,Tecnico,Tecnico,Media,Media
+Problema integrazione API Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Tecnico,Media,Media
+Malfunzionamento applicazione Il servizio risulta non disponibile (HTTP 408). È un problema temporaneo?,Tecnico,Tecnico,Bassa,Alta
+Prestazioni lente L'app va in crash subito dopo l'avvio su Android 12. Allego la descrizione del problema.,Tecnico,Tecnico,Alta,Alta
+Bug su dashboard Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Tecnico,Media,Media
+Notifiche non funzionano Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Tecnico,Media,Media
+Notifiche non funzionano Durante il caricamento dei dati ottengo errore 'Token scaduto' e l'operazione non si completa.,Tecnico,Tecnico,Media,Bassa
+Errore accesso account Il servizio risulta non disponibile (HTTP 408). È un problema temporaneo?,Tecnico,Tecnico,Bassa,Alta
+Upgrade piano Quali sono i tempi di consegna stimati per l'ordine ORD-23538 verso Torino?,Commerciale,Commerciale,Media,Media
+Crash dell'app Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user859@azienda.it.,Tecnico,Tecnico,Alta,Bassa
+Problema login È urgente. Il servizio risulta non disponibile (HTTP 403). È un problema temporaneo?,Tecnico,Tecnico,Media,Alta
+Richiesta rimborso Non riesco a completare il pagamento con carta: compare un errore 'Gateway Timeout'. Potete aiutarmi?,Amministrazione,Amministrazione,Bassa,Bassa
+Crash dell'app Serve risoluzione rapida. L'app va in crash subito dopo l'avvio su Android 13. Allego la descrizione del problema.,Tecnico,Tecnico,Alta,Alta
+Dettagli prodotto Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Enterprise?,Commerciale,Commerciale,Bassa,Bassa
+Dettagli IVA in fattura In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-97900. Potete controllare?,Amministrazione,Amministrazione,Bassa,Bassa
+Problema integrazione API È urgente. L'integrazione con le API fallisce con errore 'Token scaduto'. Endpoint: /v1/tickets.,Tecnico,Tecnico,Media,Media
+Chiarimenti su prezzi Potete aggiornarmi sullo stato dell'ordine ORD-67560? Risulta ancora in lavorazione.,Commerciale,Commerciale,Bassa,Bassa
+Servizio non disponibile L'app si blocca quando apro la sezione 'Fatture'. Potete verificare? Succede da 01/12/2026.,Tecnico,Tecnico,Alta,Bassa
+Problema login Le prestazioni sono molto lente: per aprire una pagina ci mette oltre 32 secondi.,Tecnico,Tecnico,Bassa,Bassa
+Aggiornamento dati di fatturazione Non riesco a completare il pagamento con carta: compare un errore 'Gateway Timeout'. Potete aiutarmi?,Amministrazione,Amministrazione,Bassa,Bassa
+Upgrade piano Mi servono dettagli tecnici sul prodotto CloudSync: compatibilità e requisiti minimi.,Commerciale,Commerciale,Media,Bassa
+Servizio non disponibile Da questa mattina non riesco ad accedere: appare il messaggio 'Token scaduto'. L'utente è user602@azienda.it.,Tecnico,Tecnico,Alta,Alta
+Upgrade piano Problema bloccante. Quali sono i tempi di consegna stimati per l'ordine ORD-86983 verso Napoli?,Commerciale,Commerciale,Media,Media
+Problema pagamento online Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-94192?,Amministrazione,Amministrazione,Bassa,Bassa
+Modifica ordine Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Napoli?,Commerciale,Commerciale,Bassa,Bassa
+Modifica ordine Vorrei modificare l'ordine ORD-62260 (quantità/indirizzo). È ancora possibile?,Commerciale,Commerciale,Bassa,Bassa
+Malfunzionamento applicazione Durante il caricamento dei dati ottengo errore 'Accesso negato' e l'operazione non si completa.,Tecnico,Tecnico,Bassa,Bassa
+Servizio non disponibile Problema bloccante. Il servizio risulta non disponibile (HTTP 403). È un problema temporaneo?,Tecnico,Tecnico,Alta,Alta
+Modifica ordine Mi servono dettagli tecnici sul prodotto DataGuard: compatibilità e requisiti minimi.,Commerciale,Commerciale,Bassa,Bassa
+Bug su dashboard L'integrazione con le API fallisce con errore 'Gateway Timeout'. Endpoint: /v1/orders.,Tecnico,Tecnico,Bassa,Media
+Informazioni su offerta Vorrei fare upgrade dal piano Enterprise al piano Premium. Come funziona la fatturazione?,Commerciale,Commerciale,Media,Media
+Prestazioni lente Serve risoluzione rapida. Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Tecnico,Bassa,Media
+Sollecito fattura Non ho ricevuto la fattura del mese di luglio. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Amministrazione,Bassa,Bassa
+Problema integrazione API Durante il caricamento dei dati ottengo errore 'Pagamento rifiutato' e l'operazione non si completa.,Tecnico,Tecnico,Bassa,Bassa
+Bug su dashboard Da questa mattina non riesco ad accedere: appare il messaggio 'Autenticazione fallita'. L'utente è user280@azienda.it.,Tecnico,Tecnico,Alta,Alta
+Richiesta preventivo Potete inviarmi un preventivo per 150 licenze con durata 6 mesi per la mia azienda Alfa Srl?,Commerciale,Commerciale,Bassa,Bassa
+Upgrade piano Potete inviarmi un preventivo per 105 licenze con durata 12 mesi per la mia azienda Delta Consulting?,Commerciale,Commerciale,Alta,Media
+Tempi di consegna Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Napoli?,Commerciale,Commerciale,Media,Bassa
+Nota di credito Non ho ricevuto la fattura del mese di giugno. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Amministrazione,Media,Media
+Malfunzionamento applicazione Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user176@azienda.it.,Tecnico,Tecnico,Bassa,Bassa
+Chiarimenti su prezzi Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Verona?,Commerciale,Commerciale,Bassa,Bassa
+"Verifica pagamento Buongiorno, avrei bisogno della fattura relativa all'ordine ORD-96533 del 14/10/2024. Potete inviarmela in PDF?",Amministrazione,Amministrazione,Bassa,Bassa
+Aggiornamento dati di fatturazione Chiedo il rimborso per l'ordine ORD-47655 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Amministrazione,Bassa,Bassa
+Problema login L'app va in crash subito dopo l'avvio su Android 11. Allego la descrizione del problema.,Tecnico,Tecnico,Alta,Alta

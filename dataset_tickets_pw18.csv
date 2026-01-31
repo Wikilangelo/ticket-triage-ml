@@ -1,0 +1,301 @@
+id,oggetto,descrizione,categoria,priorita
+1,Richiesta preventivo,Vorrei maggiori informazioni sull'offerta Premium. Cosa include e quali sono i costi?,Commerciale,Bassa
+2,Problema pagamento online,Non ho ricevuto la fattura del mese di febbraio. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Media
+3,Aggiornamento dati di fatturazione,"Salve, risulta un addebito doppio per l'ordine ORD-40512. Potete verificare e indicarmi come procedere?",Amministrazione,Alta
+4,Dettagli prodotto,Vorrei modificare l'ordine ORD-17331 (quantità/indirizzo). È ancora possibile?,Commerciale,Bassa
+5,Problema pagamento online,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-74686. Potete controllare?,Amministrazione,Bassa
+6,Aggiornamento dati di fatturazione,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-33416. Potete controllare?,Amministrazione,Bassa
+7,Richiesta preventivo,Potete inviarmi un preventivo per 107 licenze con durata 24 mesi per la mia azienda Beta Spa?,Commerciale,Bassa
+8,Upgrade piano,Mi servono dettagli tecnici sul prodotto CloudSync: compatibilità e requisiti minimi.,Commerciale,Media
+9,Sollecito fattura,Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-65519?,Amministrazione,Bassa
+10,Problema integrazione API,L'app si blocca quando apro la sezione 'Impostazioni'. Potete verificare? Succede da 21/09/2024.,Tecnico,Bassa
+11,Disponibilità prodotto,Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Basic?,Commerciale,Bassa
+12,Cambio intestazione fattura,Chiedo il rimborso per l'ordine ORD-85880 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+13,Verifica pagamento,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-37938. Potete controllare?,Amministrazione,Bassa
+14,Crash dell'app,Durante il caricamento dei dati ottengo errore 'Gateway Timeout' e l'operazione non si completa.,Tecnico,Alta
+15,Sconto per rinnovo,Vorrei fare upgrade dal piano Enterprise al piano Premium. Come funziona la fatturazione?,Commerciale,Media
+16,Errore accesso account,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+17,Aggiornamento dati di fatturazione,Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-94080?,Amministrazione,Bassa
+18,Dettagli IVA in fattura,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-97900. Potete controllare?,Amministrazione,Bassa
+19,Sconto per rinnovo,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Firenze?,Commerciale,Bassa
+20,Malfunzionamento applicazione,Durante il caricamento dei dati ottengo errore 'Token scaduto' e l'operazione non si completa.,Tecnico,Bassa
+21,Upgrade piano,Il prodotto ProSuite è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Media
+22,Problema integrazione API,Le prestazioni sono molto lente: per aprire una pagina ci mette oltre 13 secondi.,Tecnico,Bassa
+23,Errore accesso account,Durante il caricamento dei dati ottengo errore 'Autenticazione fallita' e l'operazione non si completa.,Tecnico,Bassa
+24,Problema login,Le prestazioni sono molto lente: per aprire una pagina ci mette oltre 16 secondi.,Tecnico,Bassa
+25,Servizio non disponibile,L'app si blocca quando apro la sezione 'Fatture'. Potete verificare? Succede da 01/12/2026.,Tecnico,Alta
+26,Problema login,L'app va in crash subito dopo l'avvio su Android 11. Allego la descrizione del problema.,Tecnico,Alta
+27,Dati per bonifico,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-66148. Potete controllare?,Amministrazione,Bassa
+28,Errore durante il caricamento,L'app si blocca quando apro la sezione 'Impostazioni'. Potete verificare? Succede da 15/04/2025.,Tecnico,Bassa
+29,Sollecito fattura,È possibile emettere una nota di credito per la fattura FT-9041/2025 a causa di un reso?,Amministrazione,Media
+30,Servizio non disponibile,Richiesta urgente. Durante il caricamento dei dati ottengo errore 'Autenticazione fallita' e l'operazione non si completa.,Tecnico,Alta
+31,Dettagli IVA in fattura,Problema bloccante. Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user597@azienda.it. Come posso fare?,Amministrazione,Bassa
+32,Verifica pagamento,Richiesta urgente. In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-64548. Potete controllare?,Amministrazione,Bassa
+33,Richiesta copia fattura,Richiesta urgente. Non ho ricevuto la fattura del mese di aprile. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Bassa
+34,Chiarimenti su prezzi,Potete aggiornarmi sullo stato dell'ordine ORD-67560? Risulta ancora in lavorazione.,Commerciale,Bassa
+35,Chiarimenti su prezzi,Vorrei maggiori informazioni sull'offerta Basic. Cosa include e quali sono i costi?,Commerciale,Bassa
+36,Disponibilità prodotto,Potete aggiornarmi sullo stato dell'ordine ORD-96846? Risulta ancora in lavorazione.,Commerciale,Bassa
+37,Prestazioni lente,Le prestazioni sono molto lente: per aprire una pagina ci mette oltre 10 secondi.,Tecnico,Bassa
+38,Errore durante il caricamento,Le prestazioni sono molto lente: per aprire una pagina ci mette oltre 37 secondi.,Tecnico,Bassa
+39,Upgrade piano,Serve risoluzione rapida. Quali sono i tempi di consegna stimati per l'ordine ORD-69682 verso Verona?,Commerciale,Alta
+40,Sollecito fattura,Non riesco a completare il pagamento con carta: compare un errore 'Pagamento rifiutato'. Potete aiutarmi?,Amministrazione,Alta
+41,Richiesta preventivo,Il prodotto SmartHub è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Bassa
+42,Sconto per rinnovo,Mi servono dettagli tecnici sul prodotto CloudSync: compatibilità e requisiti minimi.,Commerciale,Bassa
+43,Crash dell'app,Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user859@azienda.it.,Tecnico,Alta
+44,Sconto per rinnovo,Potete inviarmi un preventivo per 38 licenze con durata 24 mesi per la mia azienda Beta Spa?,Commerciale,Bassa
+45,Bug su dashboard,L'app si blocca quando apro la sezione 'Fatture'. Potete verificare? Succede da 03/03/2024.,Tecnico,Media
+46,Upgrade piano,Vorrei modificare l'ordine ORD-89964 (quantità/indirizzo). È ancora possibile?,Commerciale,Bassa
+47,Upgrade piano,Problema bloccante. Quali sono i tempi di consegna stimati per l'ordine ORD-86983 verso Napoli?,Commerciale,Media
+48,Nota di credito,"Salve, risulta un addebito doppio per l'ordine ORD-96870. Potete verificare e indicarmi come procedere?",Amministrazione,Alta
+49,Dettagli IVA in fattura,Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user25@azienda.it. Come posso fare?,Amministrazione,Bassa
+50,Nota di credito,Problema bloccante. In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-39038. Potete controllare?,Amministrazione,Media
+51,Upgrade piano,Vorrei modificare l'ordine ORD-59925 (quantità/indirizzo). È ancora possibile?,Commerciale,Media
+52,Problema login,Le prestazioni sono molto lente: per aprire una pagina ci mette oltre 12 secondi.,Tecnico,Bassa
+53,Disponibilità prodotto,Mi servono dettagli tecnici sul prodotto SmartHub: compatibilità e requisiti minimi.,Commerciale,Bassa
+54,Malfunzionamento applicazione,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+55,Disponibilità prodotto,Quali sono i tempi di consegna stimati per l'ordine ORD-45804 verso Torino?,Commerciale,Media
+56,Richiesta copia fattura,È possibile emettere una nota di credito per la fattura FT-9196/2026 a causa di un reso?,Amministrazione,Media
+57,Sollecito fattura,"Buongiorno, avrei bisogno della fattura relativa all'ordine ORD-52568 del 06/10/2025. Potete inviarmela in PDF?",Amministrazione,Bassa
+58,Dettagli prodotto,Vorrei modificare l'ordine ORD-56019 (quantità/indirizzo). È ancora possibile?,Commerciale,Bassa
+59,Stato ordine,Potete aggiornarmi sullo stato dell'ordine ORD-87518? Risulta ancora in lavorazione.,Commerciale,Bassa
+60,Malfunzionamento applicazione,Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user263@azienda.it.,Tecnico,Bassa
+61,Servizio non disponibile,Problema bloccante. Il servizio risulta non disponibile (HTTP 403). È un problema temporaneo?,Tecnico,Alta
+62,Dati per bonifico,È possibile emettere una nota di credito per la fattura FT-9317/2026 a causa di un reso?,Amministrazione,Media
+63,Nota di credito,Vorrei cambiare l'intestazione della fattura per l'ordine ORD-47346 indicando la società Beta Spa.,Amministrazione,Alta
+64,Bug su dashboard,L'integrazione con le API fallisce con errore 'Gateway Timeout'. Endpoint: /v1/orders.,Tecnico,Bassa
+65,Errore durante il caricamento,Problema bloccante. Da questa mattina non riesco ad accedere: appare il messaggio 'Gateway Timeout'. L'utente è user820@azienda.it.,Tecnico,Alta
+66,Richiesta copia fattura,Chiedo il rimborso per l'ordine ORD-65027 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+67,Upgrade piano,Vorrei fare upgrade dal piano Basic al piano Premium. Come funziona la fatturazione?,Commerciale,Media
+68,Disponibilità prodotto,Il prodotto CloudSync è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Bassa
+69,Modifica ordine,Potete aggiornarmi sullo stato dell'ordine ORD-26315? Risulta ancora in lavorazione.,Commerciale,Bassa
+70,Dati per bonifico,Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user180@azienda.it. Come posso fare?,Amministrazione,Bassa
+71,Errore accesso account,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Alta
+72,Nota di credito,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-60723. Potete controllare?,Amministrazione,Media
+73,Problema login,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+74,Problema pagamento online,Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-94192?,Amministrazione,Bassa
+75,Stato ordine,Problema bloccante. Potete inviarmi un preventivo per 173 licenze con durata 24 mesi per la mia azienda Epsilon Group?,Commerciale,Media
+76,Tempi di consegna,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Napoli?,Commerciale,Media
+77,Modifica ordine,Vorrei modificare l'ordine ORD-62260 (quantità/indirizzo). È ancora possibile?,Commerciale,Bassa
+78,Modifica ordine,Mi servono dettagli tecnici sul prodotto DataGuard: compatibilità e requisiti minimi.,Commerciale,Bassa
+79,Bug su dashboard,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Media
+80,Problema login,Durante il caricamento dei dati ottengo errore 'Autenticazione fallita' e l'operazione non si completa.,Tecnico,Bassa
+81,Upgrade piano,Serve risoluzione rapida. Il prodotto FastConnect è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Media
+82,Dettagli prodotto,Vorrei maggiori informazioni sull'offerta Basic. Cosa include e quali sono i costi?,Commerciale,Bassa
+83,Bug su dashboard,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+84,Stato ordine,Potete aggiornarmi sullo stato dell'ordine ORD-25974? Risulta ancora in lavorazione.,Commerciale,Media
+85,Verifica pagamento,Vorrei cambiare l'intestazione della fattura per l'ordine ORD-86917 indicando la società Beta Spa.,Amministrazione,Bassa
+86,Bug su dashboard,Il servizio risulta non disponibile (HTTP 400). È un problema temporaneo?,Tecnico,Media
+87,Disponibilità prodotto,Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Premium?,Commerciale,Bassa
+88,Nota di credito,Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-42512?,Amministrazione,Bassa
+89,Stato ordine,Potete inviarmi un preventivo per 175 licenze con durata 12 mesi per la mia azienda Delta Consulting?,Commerciale,Media
+90,Richiesta preventivo,Vorrei maggiori informazioni sull'offerta Plus. Cosa include e quali sono i costi?,Commerciale,Media
+91,Servizio non disponibile,Da questa mattina non riesco ad accedere: appare il messaggio 'Token scaduto'. L'utente è user602@azienda.it.,Tecnico,Alta
+92,Notifiche non funzionano,L'app si blocca quando apro la sezione 'Impostazioni'. Potete verificare? Succede da 22/09/2024.,Tecnico,Media
+93,Verifica pagamento,"Buongiorno, avrei bisogno della fattura relativa all'ordine ORD-96533 del 14/10/2024. Potete inviarmela in PDF?",Amministrazione,Bassa
+94,Modifica ordine,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Napoli?,Commerciale,Bassa
+95,Notifiche non funzionano,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+96,Dettagli prodotto,Vorrei maggiori informazioni sull'offerta Basic. Cosa include e quali sono i costi?,Commerciale,Bassa
+97,Errore durante il caricamento,L'integrazione con le API fallisce con errore 'Errore interno'. Endpoint: /v1/tickets.,Tecnico,Alta
+98,Chiarimenti su prezzi,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Verona?,Commerciale,Bassa
+99,Informazioni su offerta,Vorrei fare upgrade dal piano Enterprise al piano Enterprise. Come funziona la fatturazione?,Commerciale,Media
+100,Dettagli IVA in fattura,Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user700@azienda.it. Come posso fare?,Amministrazione,Bassa
+101,Aggiornamento dati di fatturazione,"Salve, risulta un addebito doppio per l'ordine ORD-95686. Potete verificare e indicarmi come procedere?",Amministrazione,Alta
+102,Chiarimenti su prezzi,Il prodotto FastConnect è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Bassa
+103,Problema login,L'app si blocca quando apro la sezione 'Report'. Potete verificare? Succede da 24/06/2024.,Tecnico,Bassa
+104,Cambio intestazione fattura,Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user167@azienda.it. Come posso fare?,Amministrazione,Bassa
+105,Upgrade piano,Quali sono i tempi di consegna stimati per l'ordine ORD-23538 verso Torino?,Commerciale,Media
+106,Verifica pagamento,Non riesco a completare il pagamento con carta: compare un errore 'Errore interno'. Potete aiutarmi?,Amministrazione,Bassa
+107,Chiarimenti su prezzi,Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Premium?,Commerciale,Bassa
+108,Upgrade piano,Vorrei maggiori informazioni sull'offerta Starter. Cosa include e quali sono i costi?,Commerciale,Bassa
+109,Tempi di consegna,Vorrei fare upgrade dal piano Basic al piano Premium. Come funziona la fatturazione?,Commerciale,Media
+110,Chiarimenti su prezzi,Mi servono dettagli tecnici sul prodotto DataGuard: compatibilità e requisiti minimi.,Commerciale,Bassa
+111,Prestazioni lente,L'app si blocca quando apro la sezione 'Fatture'. Potete verificare? Succede da 24/12/2025.,Tecnico,Bassa
+112,Sollecito fattura,Non ho ricevuto la fattura del mese di luglio. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Bassa
+113,Modifica ordine,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Genova?,Commerciale,Bassa
+114,Notifiche non funzionano,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+115,Disponibilità prodotto,Il prodotto DataGuard è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Bassa
+116,Disponibilità prodotto,Vorrei fare upgrade dal piano Enterprise al piano Enterprise. Come funziona la fatturazione?,Commerciale,Media
+117,Cambio intestazione fattura,Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-79767?,Amministrazione,Bassa
+118,Tempi di consegna,Il prodotto ProSuite è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Media
+119,Errore durante il caricamento,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Media
+120,Aggiornamento dati di fatturazione,Non riesco a completare il pagamento con carta: compare un errore 'Gateway Timeout'. Potete aiutarmi?,Amministrazione,Bassa
+121,Dati per bonifico,"Salve, risulta un addebito doppio per l'ordine ORD-65353. Potete verificare e indicarmi come procedere?",Amministrazione,Alta
+122,Errore durante il caricamento,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+123,Sollecito fattura,È urgente. Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user125@azienda.it. Come posso fare?,Amministrazione,Media
+124,Richiesta copia fattura,"Buongiorno, avrei bisogno della fattura relativa all'ordine ORD-62163 del 17/05/2026. Potete inviarmela in PDF?",Amministrazione,Bassa
+125,Richiesta copia fattura,Chiedo il rimborso per l'ordine ORD-21300 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+126,Dati per bonifico,È urgente. Non ho ricevuto la fattura del mese di novembre. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Bassa
+127,Bug su dashboard,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Bassa
+128,Malfunzionamento applicazione,Le prestazioni sono molto lente: per aprire una pagina ci mette oltre 44 secondi.,Tecnico,Media
+129,Modifica ordine,Vorrei maggiori informazioni sull'offerta Enterprise. Cosa include e quali sono i costi?,Commerciale,Bassa
+130,Dettagli IVA in fattura,È urgente. Non riesco a completare il pagamento con carta: compare un errore 'Pagamento rifiutato'. Potete aiutarmi?,Amministrazione,Alta
+131,Nota di credito,È possibile emettere una nota di credito per la fattura FT-8404/2025 a causa di un reso?,Amministrazione,Media
+132,Aggiornamento dati di fatturazione,Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user776@azienda.it. Come posso fare?,Amministrazione,Bassa
+133,Richiesta rimborso,È possibile emettere una nota di credito per la fattura FT-1829/2024 a causa di un reso?,Amministrazione,Media
+134,Chiarimenti su prezzi,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Verona?,Commerciale,Bassa
+135,Notifiche non funzionano,Problema bloccante. Il servizio risulta non disponibile (HTTP 404). È un problema temporaneo?,Tecnico,Alta
+136,Modifica ordine,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Napoli?,Commerciale,Bassa
+137,Dati per bonifico,Non riesco a completare il pagamento con carta: compare un errore 'Pagamento rifiutato'. Potete aiutarmi?,Amministrazione,Alta
+138,Chiarimenti su prezzi,Vorrei modificare l'ordine ORD-39260 (quantità/indirizzo). È ancora possibile?,Commerciale,Bassa
+139,Bug su dashboard,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+140,Notifiche non funzionano,Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user676@azienda.it.,Tecnico,Media
+141,Dati per bonifico,Serve risoluzione rapida. Vorrei cambiare l'intestazione della fattura per l'ordine ORD-90431 indicando la società Delta Consulting.,Amministrazione,Bassa
+142,Problema login,Serve risoluzione rapida. Da questa mattina non riesco ad accedere: appare il messaggio 'Gateway Timeout'. L'utente è user853@azienda.it.,Tecnico,Alta
+143,Bug su dashboard,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+144,Malfunzionamento applicazione,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Media
+145,Richiesta preventivo,Potete inviarmi un preventivo per 150 licenze con durata 6 mesi per la mia azienda Alfa Srl?,Commerciale,Bassa
+146,Disponibilità prodotto,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Verona?,Commerciale,Bassa
+147,Problema pagamento online,È urgente. Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user436@azienda.it. Come posso fare?,Amministrazione,Bassa
+148,Richiesta copia fattura,Chiedo il rimborso per l'ordine ORD-14334 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+149,Malfunzionamento applicazione,Il servizio risulta non disponibile (HTTP 408). È un problema temporaneo?,Tecnico,Bassa
+150,Servizio non disponibile,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Alta
+151,Bug su dashboard,Il servizio risulta non disponibile (HTTP 502). È un problema temporaneo?,Tecnico,Bassa
+152,Dati per bonifico,Chiedo il rimborso per l'ordine ORD-99957 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+153,Notifiche non funzionano,Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user881@azienda.it.,Tecnico,Media
+154,Disponibilità prodotto,Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Premium?,Commerciale,Bassa
+155,Notifiche non funzionano,È urgente. Da questa mattina non riesco ad accedere: appare il messaggio 'Gateway Timeout'. L'utente è user982@azienda.it.,Tecnico,Alta
+156,Prestazioni lente,L'integrazione con le API fallisce con errore 'Accesso negato'. Endpoint: /v1/orders.,Tecnico,Media
+157,Servizio non disponibile,L'integrazione con le API fallisce con errore 'Accesso negato'. Endpoint: /v1/tickets.,Tecnico,Alta
+158,Crash dell'app,Serve risoluzione rapida. L'app va in crash subito dopo l'avvio su Android 13. Allego la descrizione del problema.,Tecnico,Alta
+159,Disponibilità prodotto,Vorrei modificare l'ordine ORD-40737 (quantità/indirizzo). È ancora possibile?,Commerciale,Bassa
+160,Bug su dashboard,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Media
+161,Problema login,Problema bloccante. L'app si blocca quando apro la sezione 'Ordini'. Potete verificare? Succede da 23/12/2024.,Tecnico,Media
+162,Upgrade piano,Serve risoluzione rapida. Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Torino?,Commerciale,Media
+163,Servizio non disponibile,Da questa mattina non riesco ad accedere: appare il messaggio 'Errore interno'. L'utente è user422@azienda.it.,Tecnico,Alta
+164,Verifica pagamento,Vorrei cambiare l'intestazione della fattura per l'ordine ORD-91142 indicando la società Gamma Srl.,Amministrazione,Bassa
+165,Problema integrazione API,È urgente. L'integrazione con le API fallisce con errore 'Token scaduto'. Endpoint: /v1/tickets.,Tecnico,Media
+166,Prestazioni lente,L'app va in crash subito dopo l'avvio su Android 12. Allego la descrizione del problema.,Tecnico,Alta
+167,Prestazioni lente,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+168,Disponibilità prodotto,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Firenze?,Commerciale,Bassa
+169,Aggiornamento dati di fatturazione,Problema bloccante. Chiedo il rimborso per l'ordine ORD-80932 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+170,Errore durante il caricamento,Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user804@azienda.it.,Tecnico,Bassa
+171,Prestazioni lente,Richiesta urgente. Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Media
+172,Modifica ordine,Vorrei modificare l'ordine ORD-57290 (quantità/indirizzo). È ancora possibile?,Commerciale,Bassa
+173,Modifica ordine,Vorrei fare upgrade dal piano Enterprise al piano Enterprise. Come funziona la fatturazione?,Commerciale,Media
+174,Tempi di consegna,È urgente. Potete inviarmi un preventivo per 109 licenze con durata 36 mesi per la mia azienda Alfa Srl?,Commerciale,Media
+175,Chiarimenti su prezzi,Serve risoluzione rapida. Potete inviarmi un preventivo per 174 licenze con durata 6 mesi per la mia azienda Gamma Srl?,Commerciale,Bassa
+176,Stato ordine,Richiesta urgente. Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Basic?,Commerciale,Media
+177,Errore durante il caricamento,L'app si blocca quando apro la sezione 'Dashboard'. Potete verificare? Succede da 22/10/2024.,Tecnico,Bassa
+178,Prestazioni lente,Le prestazioni sono molto lente: per aprire una pagina ci mette oltre 25 secondi.,Tecnico,Bassa
+179,Problema integrazione API,L'app si blocca quando apro la sezione 'Fatture'. Potete verificare? Succede da 21/10/2024.,Tecnico,Bassa
+180,Problema login,Richiesta urgente. Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user147@azienda.it.,Tecnico,Bassa
+181,Bug su dashboard,Da questa mattina non riesco ad accedere: appare il messaggio 'Autenticazione fallita'. L'utente è user280@azienda.it.,Tecnico,Alta
+182,Richiesta preventivo,Vorrei fare upgrade dal piano Basic al piano Premium. Come funziona la fatturazione?,Commerciale,Media
+183,Richiesta rimborso,Problema bloccante. Non ho ricevuto la fattura del mese di agosto. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Bassa
+184,Tempi di consegna,Problema bloccante. Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Firenze?,Commerciale,Bassa
+185,Chiarimenti su prezzi,Potete inviarmi un preventivo per 133 licenze con durata 6 mesi per la mia azienda Delta Consulting?,Commerciale,Bassa
+186,Tempi di consegna,È urgente. Vorrei fare upgrade dal piano Premium al piano Enterprise. Come funziona la fatturazione?,Commerciale,Media
+187,Dettagli IVA in fattura,"Buongiorno, avrei bisogno della fattura relativa all'ordine ORD-59155 del 21/04/2026. Potete inviarmela in PDF?",Amministrazione,Bassa
+188,Dati per bonifico,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-82733. Potete controllare?,Amministrazione,Media
+189,Problema pagamento online,È possibile emettere una nota di credito per la fattura FT-2311/2026 a causa di un reso?,Amministrazione,Media
+190,Stato ordine,Mi servono dettagli tecnici sul prodotto ProSuite: compatibilità e requisiti minimi.,Commerciale,Media
+191,Verifica pagamento,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-47289. Potete controllare?,Amministrazione,Bassa
+192,Stato ordine,Vorrei fare upgrade dal piano Enterprise al piano Premium. Come funziona la fatturazione?,Commerciale,Media
+193,Aggiornamento dati di fatturazione,Chiedo il rimborso per l'ordine ORD-47655 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+194,Richiesta rimborso,Vorrei cambiare l'intestazione della fattura per l'ordine ORD-56665 indicando la società Alfa Srl.,Amministrazione,Bassa
+195,Richiesta copia fattura,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-65466. Potete controllare?,Amministrazione,Bassa
+196,Prestazioni lente,L'app va in crash subito dopo l'avvio su Android 12. Allego la descrizione del problema.,Tecnico,Alta
+197,Sconto per rinnovo,Il prodotto DataGuard è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Bassa
+198,Modifica ordine,Potete aggiornarmi sullo stato dell'ordine ORD-57312? Risulta ancora in lavorazione.,Commerciale,Bassa
+199,Sconto per rinnovo,Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Enterprise?,Commerciale,Bassa
+200,Chiarimenti su prezzi,Vorrei fare upgrade dal piano Enterprise al piano Premium. Come funziona la fatturazione?,Commerciale,Bassa
+201,Aggiornamento dati di fatturazione,Richiesta urgente. Vorrei cambiare l'intestazione della fattura per l'ordine ORD-30352 indicando la società Beta Spa.,Amministrazione,Bassa
+202,Crash dell'app,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Alta
+203,Nota di credito,È possibile emettere una nota di credito per la fattura FT-9981/2025 a causa di un reso?,Amministrazione,Media
+204,Stato ordine,Potete aggiornarmi sullo stato dell'ordine ORD-94994? Risulta ancora in lavorazione.,Commerciale,Alta
+205,Aggiornamento dati di fatturazione,Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user248@azienda.it. Come posso fare?,Amministrazione,Bassa
+206,Disponibilità prodotto,È urgente. Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Premium?,Commerciale,Bassa
+207,Upgrade piano,Potete inviarmi un preventivo per 35 licenze con durata 36 mesi per la mia azienda Beta Spa?,Commerciale,Media
+208,Richiesta rimborso,Non riesco a completare il pagamento con carta: compare un errore 'Gateway Timeout'. Potete aiutarmi?,Amministrazione,Bassa
+209,Nota di credito,È possibile emettere una nota di credito per la fattura FT-4057/2026 a causa di un reso?,Amministrazione,Media
+210,Tempi di consegna,Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Premium?,Commerciale,Alta
+211,Problema pagamento online,"Buongiorno, avrei bisogno della fattura relativa all'ordine ORD-36486 del 04/08/2024. Potete inviarmela in PDF?",Amministrazione,Bassa
+212,Problema integrazione API,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Media
+213,Sconto per rinnovo,Vorrei fare upgrade dal piano Enterprise al piano Enterprise. Come funziona la fatturazione?,Commerciale,Bassa
+214,Notifiche non funzionano,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Media
+215,Stato ordine,Vorrei fare upgrade dal piano Basic al piano Enterprise. Come funziona la fatturazione?,Commerciale,Media
+216,Problema login,Le prestazioni sono molto lente: per aprire una pagina ci mette oltre 32 secondi.,Tecnico,Bassa
+217,Sconto per rinnovo,Vorrei modificare l'ordine ORD-75850 (quantità/indirizzo). È ancora possibile?,Commerciale,Bassa
+218,Problema integrazione API,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Media
+219,Informazioni su offerta,Potete aggiornarmi sullo stato dell'ordine ORD-32184? Risulta ancora in lavorazione.,Commerciale,Bassa
+220,Errore durante il caricamento,L'integrazione con le API fallisce con errore 'Gateway Timeout'. Endpoint: /v1/orders.,Tecnico,Media
+221,Modifica ordine,Potete inviarmi un preventivo per 187 licenze con durata 6 mesi per la mia azienda Delta Consulting?,Commerciale,Bassa
+222,Richiesta copia fattura,Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-99694?,Amministrazione,Bassa
+223,Dettagli prodotto,Quali sono i tempi di consegna stimati per l'ordine ORD-41504 verso Torino?,Commerciale,Media
+224,Richiesta preventivo,Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Enterprise?,Commerciale,Bassa
+225,Dati per bonifico,"Salve, risulta un addebito doppio per l'ordine ORD-72469. Potete verificare e indicarmi come procedere?",Amministrazione,Alta
+226,Verifica pagamento,Non riesco a completare il pagamento con carta: compare un errore 'Accesso negato'. Potete aiutarmi?,Amministrazione,Media
+227,Problema integrazione API,Da questa mattina non riesco ad accedere: appare il messaggio 'Gateway Timeout'. L'utente è user802@azienda.it.,Tecnico,Media
+228,Crash dell'app,Richiesta urgente. Durante il caricamento dei dati ottengo errore 'Accesso negato' e l'operazione non si completa.,Tecnico,Alta
+229,Sconto per rinnovo,Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Premium?,Commerciale,Bassa
+230,Prestazioni lente,Serve risoluzione rapida. Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Bassa
+231,Aggiornamento dati di fatturazione,Problema bloccante. Vorrei cambiare l'intestazione della fattura per l'ordine ORD-96628 indicando la società Epsilon Group.,Amministrazione,Bassa
+232,Problema integrazione API,Durante il caricamento dei dati ottengo errore 'Pagamento rifiutato' e l'operazione non si completa.,Tecnico,Bassa
+233,Dettagli prodotto,Potete aggiornarmi sullo stato dell'ordine ORD-35369? Risulta ancora in lavorazione.,Commerciale,Bassa
+234,Errore accesso account,L'app si blocca quando apro la sezione 'Dashboard'. Potete verificare? Succede da 11/06/2025.,Tecnico,Bassa
+235,Informazioni su offerta,Vorrei fare upgrade dal piano Enterprise al piano Premium. Come funziona la fatturazione?,Commerciale,Media
+236,Bug su dashboard,Da questa mattina non riesco ad accedere: appare il messaggio 'Token scaduto'. L'utente è user390@azienda.it.,Tecnico,Alta
+237,Upgrade piano,Problema bloccante. Potete aggiornarmi sullo stato dell'ordine ORD-52904? Risulta ancora in lavorazione.,Commerciale,Media
+238,Dati per bonifico,Chiedo il rimborso per l'ordine ORD-35237 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+239,Dettagli prodotto,Sono cliente da tempo: è previsto uno sconto per il rinnovo del piano Enterprise?,Commerciale,Bassa
+240,Upgrade piano,Potete inviarmi un preventivo per 105 licenze con durata 12 mesi per la mia azienda Delta Consulting?,Commerciale,Alta
+241,Dati per bonifico,È possibile emettere una nota di credito per la fattura FT-3087/2026 a causa di un reso?,Amministrazione,Bassa
+242,Malfunzionamento applicazione,Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user813@azienda.it.,Tecnico,Bassa
+243,Richiesta preventivo,Non mi è chiaro il prezzo finale: include IVA e costi di spedizione per Firenze?,Commerciale,Bassa
+244,Notifiche non funzionano,Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user423@azienda.it.,Tecnico,Media
+245,Notifiche non funzionano,Serve risoluzione rapida. Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Media
+246,Chiarimenti su prezzi,Quali sono i tempi di consegna stimati per l'ordine ORD-91690 verso Milano?,Commerciale,Media
+247,Cambio intestazione fattura,È possibile emettere una nota di credito per la fattura FT-8617/2026 a causa di un reso?,Amministrazione,Media
+248,Crash dell'app,È urgente. Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user46@azienda.it.,Tecnico,Alta
+249,Servizio non disponibile,Il login va in timeout e non ricevo il codice OTP. Ho provato più volte senza successo.,Tecnico,Alta
+250,Notifiche non funzionano,Durante il caricamento dei dati ottengo errore 'Token scaduto' e l'operazione non si completa.,Tecnico,Media
+251,Errore accesso account,Il servizio risulta non disponibile (HTTP 408). È un problema temporaneo?,Tecnico,Bassa
+252,Dati per bonifico,In fattura manca l'indicazione dell'IVA o l'aliquota sembra errata per l'ordine ORD-11386. Potete controllare?,Amministrazione,Bassa
+253,Sconto per rinnovo,Quali sono i tempi di consegna stimati per l'ordine ORD-96034 verso Firenze?,Commerciale,Media
+254,Errore accesso account,Problema bloccante. Il servizio risulta non disponibile (HTTP 403). È un problema temporaneo?,Tecnico,Alta
+255,Nota di credito,Non riesco a completare il pagamento con carta: compare un errore 'Accesso negato'. Potete aiutarmi?,Amministrazione,Media
+256,Malfunzionamento applicazione,L'app va in crash subito dopo l'avvio su Android 12. Allego la descrizione del problema.,Tecnico,Alta
+257,Prestazioni lente,L'app si blocca quando apro la sezione 'Ordini'. Potete verificare? Succede da 15/12/2024.,Tecnico,Bassa
+258,Malfunzionamento applicazione,Durante il caricamento dei dati ottengo errore 'Accesso negato' e l'operazione non si completa.,Tecnico,Bassa
+259,Nota di credito,Vorrei cambiare l'intestazione della fattura per l'ordine ORD-32372 indicando la società Beta Spa.,Amministrazione,Media
+260,Sollecito fattura,Non riesco a completare il pagamento con carta: compare un errore 'Token scaduto'. Potete aiutarmi?,Amministrazione,Bassa
+261,Problema login,Durante il caricamento dei dati ottengo errore 'Errore interno' e l'operazione non si completa.,Tecnico,Bassa
+262,Modifica ordine,Vorrei fare upgrade dal piano Premium al piano Premium. Come funziona la fatturazione?,Commerciale,Media
+263,Errore accesso account,L'app si blocca quando apro la sezione 'Impostazioni'. Potete verificare? Succede da 18/03/2024.,Tecnico,Bassa
+264,Verifica pagamento,È possibile emettere una nota di credito per la fattura FT-8454/2024 a causa di un reso?,Amministrazione,Media
+265,Prestazioni lente,Non ricevo le notifiche email/push per gli eventi importanti. Potete controllare la configurazione?,Tecnico,Media
+266,Notifiche non funzionano,L'app va in crash subito dopo l'avvio su Android 14. Allego la descrizione del problema.,Tecnico,Alta
+267,Problema pagamento online,Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-48769?,Amministrazione,Bassa
+268,Informazioni su offerta,Potete aggiornarmi sullo stato dell'ordine ORD-65823? Risulta ancora in lavorazione.,Commerciale,Bassa
+269,Richiesta preventivo,Vorrei fare upgrade dal piano Premium al piano Premium. Come funziona la fatturazione?,Commerciale,Media
+270,Richiesta preventivo,Richiesta urgente. Il prodotto CloudSync è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Bassa
+271,Informazioni su offerta,Potete aggiornarmi sullo stato dell'ordine ORD-64596? Risulta ancora in lavorazione.,Commerciale,Bassa
+272,Disponibilità prodotto,Il prodotto CloudSync è disponibile a magazzino? Quando torna disponibile se esaurito?,Commerciale,Bassa
+273,Problema pagamento online,Chiedo il rimborso per l'ordine ORD-25324 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+274,Nota di credito,Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-30454?,Amministrazione,Media
+275,Nota di credito,Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-22121?,Amministrazione,Media
+276,Sollecito fattura,Problema bloccante. Potete fornirmi le coordinate per effettuare un bonifico e la causale corretta per l'ordine ORD-60608?,Amministrazione,Bassa
+277,Malfunzionamento applicazione,L'app va in crash subito dopo l'avvio su Android 14. Allego la descrizione del problema.,Tecnico,Alta
+278,Richiesta copia fattura,"Buongiorno, avrei bisogno della fattura relativa all'ordine ORD-30188 del 09/05/2026. Potete inviarmela in PDF?",Amministrazione,Bassa
+279,Malfunzionamento applicazione,Nella dashboard i grafici non si aggiornano e vedo valori a zero. Account: user176@azienda.it.,Tecnico,Bassa
+280,Dettagli IVA in fattura,Chiedo il rimborso per l'ordine ORD-92317 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+281,Verifica pagamento,Chiedo il rimborso per l'ordine ORD-30257 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+282,Problema login,È urgente. Il servizio risulta non disponibile (HTTP 403). È un problema temporaneo?,Tecnico,Media
+283,Nota di credito,"Salve, risulta un addebito doppio per l'ordine ORD-43162. Potete verificare e indicarmi come procedere?",Amministrazione,Alta
+284,Dettagli IVA in fattura,Vorrei cambiare l'intestazione della fattura per l'ordine ORD-18957 indicando la società Beta Spa.,Amministrazione,Bassa
+285,Sollecito fattura,"Salve, risulta un addebito doppio per l'ordine ORD-51193. Potete verificare e indicarmi come procedere?",Amministrazione,Alta
+286,Errore durante il caricamento,L'app si blocca quando apro la sezione 'Report'. Potete verificare? Succede da 22/06/2024.,Tecnico,Bassa
+287,Malfunzionamento applicazione,Durante il caricamento dei dati ottengo errore 'Accesso negato' e l'operazione non si completa.,Tecnico,Bassa
+288,Richiesta copia fattura,"Salve, risulta un addebito doppio per l'ordine ORD-16927. Potete verificare e indicarmi come procedere?",Amministrazione,Alta
+289,Problema integrazione API,L'integrazione con le API fallisce con errore 'Autenticazione fallita'. Endpoint: /v1/orders.,Tecnico,Media
+290,Problema integrazione API,L'integrazione con le API fallisce con errore 'Token scaduto'. Endpoint: /v1/billing.,Tecnico,Media
+291,Dati per bonifico,Non ho ricevuto la fattura del mese di gennaio. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Bassa
+292,Aggiornamento dati di fatturazione,"Buongiorno, avrei bisogno della fattura relativa all'ordine ORD-71564 del 19/01/2025. Potete inviarmela in PDF?",Amministrazione,Bassa
+293,Dettagli IVA in fattura,Chiedo il rimborso per l'ordine ORD-47664 annullato. Vorrei sapere tempi e modalità di accredito.,Amministrazione,Bassa
+294,Sollecito fattura,Non ho ricevuto la fattura del mese di settembre. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Bassa
+295,Aggiornamento dati di fatturazione,Non ho ricevuto la fattura del mese di luglio. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Bassa
+296,Richiesta rimborso,Non riesco a completare il pagamento con carta: compare un errore 'Gateway Timeout'. Potete aiutarmi?,Amministrazione,Bassa
+297,Richiesta rimborso,"Richiesta urgente. Salve, risulta un addebito doppio per l'ordine ORD-84838. Potete verificare e indicarmi come procedere?",Amministrazione,Alta
+298,Nota di credito,Non ho ricevuto la fattura del mese di giugno. Potete reinviarla o indicarmi dove scaricarla?,Amministrazione,Media
+299,Richiesta rimborso,Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user381@azienda.it. Come posso fare?,Amministrazione,Bassa
+300,Richiesta copia fattura,Richiesta urgente. Dovrei aggiornare i dati di fatturazione (P.IVA/codice fiscale) per l'account user432@azienda.it. Come posso fare?,Amministrazione,Bassa
