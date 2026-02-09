@@ -1,4 +1,4 @@
-# 🎫 Ticket Triage with Machine Learning
+# 📄 Ticket Triage with Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-green)
