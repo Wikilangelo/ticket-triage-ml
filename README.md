@@ -30,7 +30,7 @@ The prototype demonstrates how **basic ML techniques** can:
 ✔ Reduce manual ticket sorting  
 ✔ Improve response times  
 ✔ Standardize classification  
-✔ Support human operators in repetitive tasks  
+✔ Support human operators in repetitive tasks
 
 ---
 
@@ -41,7 +41,7 @@ The dataset is **synthetic**, created specifically for the project, as required 
 Each ticket includes:
 
 | Field | Description |
-|------|-------------|
+|---|---|
 | id | Ticket identifier |
 | oggetto | Short title |
 | descrizione | Full description |
@@ -57,18 +57,21 @@ The text used by the model is obtained by combining **title + description**.
 This project uses **Supervised Learning**.
 
 ### Text Processing
+
 - Text is converted into numbers using **TF-IDF vectorization**
 - This highlights important words while reducing common ones
 
 ### Classification Model
+
 The model used is **Logistic Regression**, chosen because:
 
 ✔ Simple and interpretable  
 ✔ Works well with small datasets  
 ✔ Fast to train  
-✔ Suitable for text classification  
+✔ Suitable for text classification
 
 Two models are trained:
+
 - One for **Category**
 - One for **Priority**
 
@@ -91,10 +94,10 @@ These metrics ensure the model is reasonably reliable for a prototype.
 
 A simple **Streamlit dashboard** allows users to:
 
-1. Insert ticket title and description  
-2. Get predicted category  
-3. Get predicted priority  
-4. View model confidence  
+1. Insert ticket title and description
+2. Get predicted category
+3. Get predicted priority
+4. View model confidence
 
 ---
 
@@ -102,34 +105,34 @@ A simple **Streamlit dashboard** allows users to:
 
 ### 1️⃣ Clone the repository
 
-```bash
-git clone https://github.com/wikilangelo/ticket-triage-ml.git
+```
+git clone https://github.com/Wikilangelo/ticket-triage-ml.git
 cd ticket-triage-ml
 ```
 
 ### 2️⃣ Install dependencies
 
-If you have a `requirements.txt` file:
-
-```bash
+```
 pip install -r requirements.txt
 ```
 
-Otherwise install manually:
+### 3️⃣ (Opzionale) Esplora i notebook
 
-```bash
-pip install pandas scikit-learn streamlit
+```
+jupyter notebook
 ```
 
-### 3️⃣ Train the models (optional, if needed)
+Apri `Preprocessing.ipynb` per vedere la fase di preparazione dei dati e `Training.ipynb` per il training del modello, con spiegazioni passo passo in italiano.
 
-```bash
+### 4️⃣ Train the models (optional, if needed)
+
+```
 python main.py
 ```
 
-### 4️⃣ Run the Streamlit app
+### 5️⃣ Run the Streamlit app
 
-```bash
+```
 streamlit run app.py
 ```
 
@@ -138,13 +141,16 @@ streamlit run app.py
 ## 📌 Project Structure
 
 ```
-├── app.py                → Streamlit interface  
-├── main.py               → Model training script  
-├── plot.py               → Evaluation plots  
-├── dataset_tickets_pw18.csv  
-├── report_categoria.json  
-├── report_priorita.json  
-└── README.md  
+├── Preprocessing.ipynb       → Pulizia e preparazione del dataset
+├── Training.ipynb            → Addestramento e valutazione del modello
+├── app.py                    → Streamlit interface
+├── main.py                   → Model training script
+├── plot.py                   → Evaluation plots
+├── dataset_tickets_pw18.csv
+├── report_categoria.json
+├── report_priorita.json
+├── requirements.txt
+└── README.md
 ```
 
 ---
@@ -153,18 +159,18 @@ streamlit run app.py
 
 This is a **prototype**, not a production system.
 
-- Dataset is small and synthetic  
-- Language complexity is limited  
-- High priority tickets should always be reviewed by humans  
+- Dataset is small and synthetic
+- Language complexity is limited
+- High priority tickets should always be reviewed by humans
 
 ---
 
 ## 🚀 Future Improvements
 
-- Use real-world datasets  
-- Integrate advanced NLP models  
-- Continuous model retraining  
-- Integration with real ticketing systems  
+- Use real-world datasets
+- Integrate advanced NLP models
+- Continuous model retraining
+- Integration with real ticketing systems
 
 ---
 
