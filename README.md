@@ -1,13 +1,13 @@
 # 📄 Ticket Triage with Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-green)
-![NLP](https://img.shields.io/badge/NLP-Text%20Processing-yellow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-Vectorization-purple)
-![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
-![Text Classification](https://img.shields.io/badge/Task-Text%20Classification-brightgreen)
-![Educational Project](https://img.shields.io/badge/Type-Educational-lightgrey)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-green)]()
+[![NLP](https://img.shields.io/badge/NLP-Text%20Processing-yellow)]()
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)]()
+[![TF-IDF](https://img.shields.io/badge/TF--IDF-Vectorization-purple)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)]()
+[![Text Classification](https://img.shields.io/badge/Task-Text%20Classification-brightgreen)]()
+[![Educational Project](https://img.shields.io/badge/Type-Educational-lightgrey)]()
 
 ---
 
@@ -41,13 +41,14 @@ The dataset is **synthetic**, created specifically for the project, as required 
 Each ticket includes:
 
 | Field | Description |
-|---|---|
+|-------|-------------|
 | id | Ticket identifier |
 | oggetto | Short title |
 | descrizione | Full description |
-| categoria | Ticket category (Admin / Technical / Commercial) |
-| priorità | Operational priority (Low / Medium / High) |
+| categoria | Ticket category (Amministrazione / Tecnico / Commerciale) |
+| priorità | Operational priority (Bassa / Media / Alta) |
 
+**300 tickets** total, balanced across categories (100 per class).  
 The text used by the model is obtained by combining **title + description**.
 
 ---
@@ -59,7 +60,8 @@ This project uses **Supervised Learning**.
 ### Text Processing
 
 - Text is converted into numbers using **TF-IDF vectorization**
-- This highlights important words while reducing common ones
+- Highlights important words while reducing common ones
+- Uses unigrams and bigrams (`ngram_range=(1,2)`)
 
 ### Classification Model
 
@@ -70,10 +72,10 @@ The model used is **Logistic Regression**, chosen because:
 ✔ Fast to train  
 ✔ Suitable for text classification
 
-Two models are trained:
+Two independent models are trained:
 
-- One for **Category**
-- One for **Priority**
+- One for **Category** (Amministrazione / Tecnico / Commerciale)
+- One for **Priority** (Bassa / Media / Alta)
 
 ---
 
@@ -84,20 +86,31 @@ Model performance is evaluated using:
 - **Accuracy**
 - **Precision**
 - **Recall**
-- **F1-score**
-
-These metrics ensure the model is reasonably reliable for a prototype.
+- **F1-score (macro)**
+- **Confusion Matrix**
 
 ---
 
 ## 🖥️ Web Interface
 
-A simple **Streamlit dashboard** allows users to:
+A **Streamlit dashboard** with three sections:
 
-1. Insert ticket title and description
-2. Get predicted category
-3. Get predicted priority
-4. View model confidence
+### 1️⃣ Single Ticket Prediction
+- Insert ticket title and description
+- Get predicted category and priority
+- View confidence scores
+- See the **top 5 most influential words** that drove the classification
+
+### 2️⃣ Batch Prediction (CSV)
+- Upload a CSV file with multiple tickets (`oggetto` + `descrizione` columns)
+- Run predictions on all tickets at once
+- Download results as CSV with predicted category, priority and confidence scores
+
+### 3️⃣ Model Evaluation
+- View accuracy and F1-score macro on the test set
+- Visualize per-class metrics (Precision, Recall, F1) as bar charts
+- View **confusion matrices** for both category and priority
+- Download the full test set predictions as CSV
 
 ---
 
@@ -105,34 +118,34 @@ A simple **Streamlit dashboard** allows users to:
 
 ### 1️⃣ Clone the repository
 
-```
+```bash
 git clone https://github.com/Wikilangelo/ticket-triage-ml.git
 cd ticket-triage-ml
 ```
 
 ### 2️⃣ Install dependencies
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ (Opzionale) Esplora i notebook
+### 3️⃣ (Optional) Explore the notebooks
 
-```
+```bash
 jupyter notebook
 ```
 
-Apri `Preprocessing.ipynb` per vedere la fase di preparazione dei dati e `Training.ipynb` per il training del modello, con spiegazioni passo passo in italiano.
+Open `Preprocessing.ipynb` to see the data preparation phase and `Training.ipynb` for model training and confusion matrix, with step-by-step explanations in Italian.
 
-### 4️⃣ Train the models (optional, if needed)
+### 4️⃣ Train the models (optional, if .pkl files are missing)
 
-```
+```bash
 python main.py
 ```
 
 ### 5️⃣ Run the Streamlit app
 
-```
+```bash
 streamlit run app.py
 ```
 
@@ -141,14 +154,15 @@ streamlit run app.py
 ## 📌 Project Structure
 
 ```
-├── Preprocessing.ipynb       → Pulizia e preparazione del dataset
-├── Training.ipynb            → Addestramento e valutazione del modello
-├── app.py                    → Streamlit interface
+├── Preprocessing.ipynb       → Data cleaning and preparation
+├── Training.ipynb            → Model training, evaluation and confusion matrix
+├── app.py                    → Streamlit dashboard (3 sections)
 ├── main.py                   → Model training script
-├── plot.py                   → Evaluation plots
-├── dataset_tickets_pw18.csv
-├── report_categoria.json
-├── report_priorita.json
+├── plot.py                   → Standalone evaluation plots
+├── dataset_tickets_pw18.csv  → Synthetic dataset (300 tickets)
+├── predizioni_test.csv       → Test set predictions
+├── report_categoria.json     → Category metrics report
+├── report_priorita.json      → Priority metrics report
 ├── requirements.txt
 └── README.md
 ```
@@ -159,18 +173,20 @@ streamlit run app.py
 
 This is a **prototype**, not a production system.
 
-- Dataset is small and synthetic
-- Language complexity is limited
-- High priority tickets should always be reviewed by humans
+- Dataset is small (300 tickets) and synthetic
+- No stopword removal — common Italian words may appear in top influential words
+- Priority class **Alta** is underrepresented (46 tickets vs 162 Bassa), causing lower recall
+- Language complexity is limited compared to real-world tickets
 
 ---
 
 ## 🚀 Future Improvements
 
-- Use real-world datasets
-- Integrate advanced NLP models
-- Continuous model retraining
-- Integration with real ticketing systems
+- Use real-world datasets with more tickets
+- Add Italian stopword removal
+- Integrate advanced NLP models (e.g. BERT)
+- Continuous model retraining pipeline
+- Integration with real ticketing systems (Jira, Zendesk)
 
 ---
 
